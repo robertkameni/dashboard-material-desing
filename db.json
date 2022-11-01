@@ -1,0 +1,31 @@
+{
+  "productsList": [
+    {
+      "productName": "Mais",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "Patate mure",
+      "date": "2022-11-02T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Banane",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 8,
+      "comment": "Banane Mure",
+      "date": "2022-12-05T23:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Salade",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 15,
+      "comment": "Salades à vendre",
+      "date": "2022-11-19T23:00:00.000Z",
+      "id": 6
+    }
+  ]
+}

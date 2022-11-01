@@ -1,0 +1,18 @@
+<mat-toolbar color="primary">
+  <button mat-icon-button class="example-icon">
+    <mat-icon>dashboard</mat-icon>
+  </button>
+  <span>Intern Dashboard Usind Angular Material Design (CRUD)</span>
+  <span class="example-spacer"></span>
+  <button mat-raised-button color="warn" (click)="openDialog()">
+    Add Product
+  </button>
+</mat-toolbar>
+<app-product-view> </app-product-view>
+
+<div class="container">
+  <mat-card-footer>
+    <h4>&copy; Copyright 2022 Robert Kameni</h4>
+    <mat-progress-bar mode="indeterminate"> </mat-progress-bar>
+  </mat-card-footer>
+</div>
